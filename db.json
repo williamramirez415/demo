@@ -85,6 +85,14 @@
       }
     ]
   },
+  "prescribers": [
+    { "id": 1, "Prescriber": "Alfonso Gonzalez" },
+    { "id": 2, "Prescriber": "Babak Goshtabi" },
+    { "id": 3, "Prescriber": "Erick Custodio" },
+    { "id": 4, "Prescriber": "Miriam Bukhari" },
+    { "id": 5, "Prescriber": "Poindexter Bukalter" },
+    { "id": 6, "Prescriber": "Shibani Dhume" }
+  ],
   "medicationlist": [
     {
       "Id": 1,
@@ -109,3 +117,4 @@
     "name": "typicode"
   }
 }
+
