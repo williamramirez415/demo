@@ -113,8 +113,53 @@
       "OpenedDate": "2019/04/03 11:00:00"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "erxrequesttypes": [
+    {
+      "Id": 1,
+      "TypeName": "Refill Request",
+      "Counter": 17
+    },
+    {
+      "Id": 2,
+      "TypeName": "Change Request",
+      "Counter": 3
+    },
+    {
+      "Id": 3,
+      "TypeName": "Cancelled",
+      "Counter": 2
+    },
+    {
+      "Id": 1,
+      "TypeName": "Filled",
+      "Counter": 5
+    }
+  ],
+  "erxstatuslist": [
+    {
+      "Id": 1,
+      "StatusName": "New",
+      "Counter": 23
+    },
+    {
+      "Id": 2,
+      "StatusName": "Pending",
+      "Counter": 34
+    },
+    {
+      "Id": 3,
+      "StatusName": "Expired",
+      "Counter": 5
+    },
+    {
+      "Id": 4,
+      "StatusName": "Closed",
+      "Counter": 105
+    },
+    {
+      "Id": 5,
+      "StatusName": "Failed",
+      "Counter": 4
+    }
+  ]
 }
-
