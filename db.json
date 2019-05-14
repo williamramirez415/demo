@@ -8,7 +8,8 @@
         "Patient": "Connor Erickson",
         "Medication": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
         "Status": "New",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       },
       {
         "id": 2,
@@ -16,7 +17,8 @@
         "Patient": "Glenn Washington",
         "Medication": "Lasix 20mg oral tablet",
         "Status": "New",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Refill Request"
       },
       {
         "id": 3,
@@ -24,7 +26,8 @@
         "Patient": "Lelia Summers",
         "Medication": "metFORMIN 500mg oral tablet",
         "Status": "Pending",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Canceled"
       },
       {
         "id": 4,
@@ -32,7 +35,8 @@
         "Patient": "Mary Jones",
         "Medication": "Lisinopril 20 mg oral tablet",
         "Status": "Pending",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       },
       {
         "id": 15,
@@ -40,7 +44,8 @@
         "Patient": "Blanche Summers",
         "Medication": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
         "Status": "Expired",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       },
       {
         "id": 16,
@@ -49,7 +54,8 @@
         "Medication": "Lisinopril 20 mg oral tablet",
         "Status": "Closed",
         "Comments": "Approved by Miriam Bukhari",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Filled"
       },
       {
         "id": 17,
@@ -57,7 +63,8 @@
         "Patient": "Connor Erickson",
         "Medication": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
         "Status": "New",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       },
       {
         "id": 18,
@@ -65,7 +72,8 @@
         "Patient": "Glenn Washington",
         "Medication": "Lasix 20mg oral tablet",
         "Status": "New",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       },
       {
         "id": 19,
@@ -73,7 +81,8 @@
         "Patient": "Lelia Summers",
         "Medication": "metFORMIN 500mg oral tablet",
         "Status": "Pending",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Refill Request"
       },
       {
         "id": 10,
@@ -81,7 +90,8 @@
         "Patient": "Mary Jones",
         "Medication": "Lisinopril 20 mg oral tablet",
         "Status": "Pending",
-        "LastUpdated": "Dec 14, 2018"
+        "LastUpdated": "Dec 14, 2018",
+        "Type": "Change Request"
       }
     ]
   },
