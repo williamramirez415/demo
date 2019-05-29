@@ -171,5 +171,111 @@
       "StatusName": "Failed",
       "Counter": 4
     }
-  ]
+  ],
+  "pharmacySearch": {
+    "total_count": 100,
+    "items": [
+      {
+        "id": 1,
+        "Name": "Shibani Dhume",
+        "Address": "Connor Erickson",
+        "Phone": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
+        "Fax": "New",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 2,
+        "Name": "Miriam Bukhari",
+        "Address": "Glenn Washington",
+        "Phone": "Lasix 20mg oral tablet",
+        "Fax": "New",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Refill Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 3,
+        "Name": "Ravi Gupta",
+        "Address": "Lelia Summers",
+        "Phone": "metFORMIN 500mg oral tablet",
+        "Fax": "Pending",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Canceled",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 4,
+        "Name": "Babak Goshtasbi",
+        "Address": "Mary Jones",
+        "Phone": "Lisinopril 20 mg oral tablet",
+        "Fax": "Pending",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 15,
+        "Name": "Erick Custodio",
+        "Address": "Blanche Summers",
+        "Phone": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
+        "Fax": "Expired",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 16,
+        "Name": "Miriam Bukhari",
+        "Address": "Mary Jones",
+        "Phone": "Lisinopril 20 mg oral tablet",
+        "Fax": "Closed",
+        "Comments": "Approved by Miriam Bukhari",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Filled",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 17,
+        "Name": "Shibani Dhume",
+        "Address": "Connor Erickson",
+        "Phone": "Levothyroxine 50 mcg(0.05 mg) oral tablet",
+        "Fax": "New",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 18,
+        "Name": "Miriam Bukhari",
+        "Address": "Glenn Washington",
+        "Phone": "Lasix 20mg oral tablet",
+        "Fax": "New",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 19,
+        "Name": "Ravi Gupta",
+        "Address": "Lelia Summers",
+        "Phone": "metFORMIN 500mg oral tablet",
+        "Fax": "Pending",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Refill Request",
+        "CouponPrice": "$100.00"
+      },
+      {
+        "id": 10,
+        "Name": "Babak Goshtasbi",
+        "Address": "Mary Jones",
+        "Phone": "Lisinopril 20 mg oral tablet",
+        "Fax": "Pending",
+        "Epcs": "Dec 14, 2018",
+        "Type": "Change Request",
+        "CouponPrice": "$100.00"
+      }
+    ]
+  }
 }
