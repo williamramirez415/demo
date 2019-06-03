@@ -114,7 +114,8 @@
       "PharmacyPhone": "(123) 456-7890",
       "PharmacyFax": "1234567890",
       "EPCS": "Yes",
-      "PharmacyCoupon": "$123.45"
+      "PharmacyCoupon": "$123.45",
+      "PharmacyType": "Retail"
     },
     {
       "Id": 2,
@@ -126,7 +127,8 @@
       "PharmacyPhone": "(123) 456-7890",
       "PharmacyFax": "1234567890",
       "EPCS": "Yes",
-      "PharmacyCoupon": "$123.45"
+      "PharmacyCoupon": "$123.45",
+      "PharmacyType": "Retail"
     },
     {
       "Id": 3,
@@ -138,7 +140,8 @@
       "PharmacyPhone": "(123) 456-7890",
       "PharmacyFax": "1234567890",
       "EPCS": "Yes",
-      "PharmacyCoupon": "$123.45"
+      "PharmacyCoupon": "$123.45",
+      "PharmacyType": "Retail"
     },
     {
       "Id": 4,
@@ -150,7 +153,8 @@
       "PharmacyPhone": "(123) 456-7890",
       "PharmacyFax": "1234567890",
       "EPCS": "Yes",
-      "PharmacyCoupon": "$123.45"
+      "PharmacyCoupon": "$123.45",
+      "PharmacyType": "Retail"
     },
     {
       "Id": 5,
@@ -162,7 +166,8 @@
       "PharmacyPhone": "(123) 456-7890",
       "PharmacyFax": "1234567890",
       "EPCS": "Yes",
-      "PharmacyCoupon": "$123.45"
+      "PharmacyCoupon": "$123.45",
+      "PharmacyType": "Retail"
     }
   ],
   "erxrequesttypes": [
