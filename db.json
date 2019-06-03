@@ -108,19 +108,61 @@
       "Id": 1,
       "DrugDescription": "Drug description 01",
       "PharmacyInstructions": "Pharmacy instructions 01",
-      "OpenedDate": "2019/04/03 11:00:00"
+      "OpenedDate": "2019/04/03 11:00:00",
+      "PharmacyName": "Walgreens",
+      "PharmacyAddress": "5500 Thomasville Road, Tallahassee, FL 323123836",
+      "PharmacyPhone": "(123) 456-7890",
+      "PharmacyFax": "1234567890",
+      "EPCS": "Yes",
+      "PharmacyCoupon": "$123.45"
     },
     {
       "Id": 2,
       "DrugDescription": "Drug description 02",
       "PharmacyInstructions": "Pharmacy instructions 02",
-      "OpenedDate": "2019/04/03 11:00:00"
+      "OpenedDate": "2019/04/03 11:00:00",
+      "PharmacyName": "Walgreens",
+      "PharmacyAddress": "5500 Thomasville Road, Tallahassee, FL 323123836",
+      "PharmacyPhone": "(123) 456-7890",
+      "PharmacyFax": "1234567890",
+      "EPCS": "Yes",
+      "PharmacyCoupon": "$123.45"
     },
     {
       "Id": 3,
       "DrugDescription": "Drug description 03",
       "PharmacyInstructions": "Pharmacy instructions 03",
-      "OpenedDate": "2019/04/03 11:00:00"
+      "OpenedDate": "2019/04/03 11:00:00",
+      "PharmacyName": "Walgreens",
+      "PharmacyAddress": "5500 Thomasville Road, Tallahassee, FL 323123836",
+      "PharmacyPhone": "(123) 456-7890",
+      "PharmacyFax": "1234567890",
+      "EPCS": "Yes",
+      "PharmacyCoupon": "$123.45"
+    },
+    {
+      "Id": 4,
+      "DrugDescription": "Drug description 03",
+      "PharmacyInstructions": "Pharmacy instructions 03",
+      "OpenedDate": "2019/04/03 11:00:00",
+      "PharmacyName": "Walgreens",
+      "PharmacyAddress": "5500 Thomasville Road, Tallahassee, FL 323123836",
+      "PharmacyPhone": "(123) 456-7890",
+      "PharmacyFax": "1234567890",
+      "EPCS": "Yes",
+      "PharmacyCoupon": "$123.45"
+    },
+    {
+      "Id": 5,
+      "DrugDescription": "Drug description 03",
+      "PharmacyInstructions": "Pharmacy instructions 03",
+      "OpenedDate": "2019/04/03 11:00:00",
+      "PharmacyName": "Walgreens",
+      "PharmacyAddress": "5500 Thomasville Road, Tallahassee, FL 323123836",
+      "PharmacyPhone": "(123) 456-7890",
+      "PharmacyFax": "1234567890",
+      "EPCS": "Yes",
+      "PharmacyCoupon": "$123.45"
     }
   ],
   "erxrequesttypes": [
